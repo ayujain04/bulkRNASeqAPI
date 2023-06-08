@@ -4,4 +4,4 @@ This information will be used by the Elmallah lab to advise their wet lab work i
 
 Authors: 
 
-Ayush Jain, Justin Dhinsa
+Ayush Jain
